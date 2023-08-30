@@ -1,0 +1,2 @@
+// Auth token we will use to generate a meeting and connect to it
+TOKEN="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlrZXkiOiI4NmMwY2ZkNS0wZWMyLTQxYjQtYmNjMi1iMGVmMmU0M2Y1MWIiLCJwZXJtaXNzaW9ucyI6WyJhbGxvd19qb2luIl0sImlhdCI6MTY5MzM1MTY4OSwiZXhwIjoxNjkzNDM4MDg5fQ.3F2BV6AVHBgaOMWt8dMPCo_qRRbu3f-4DcDQnn7nuUA"
