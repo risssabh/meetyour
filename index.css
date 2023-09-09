@@ -74,7 +74,7 @@ nav {
   }
   /* *BODY  PAGE *********************************/
   body {
-    background-image: url(assets/pics/background.jpg);
+    background-image: url(public/background.jpg);
     background-size: cover;
     background-position: center;
     /* background-repeat: no-repeat; */
